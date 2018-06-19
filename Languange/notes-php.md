@@ -30,7 +30,27 @@
     // array asosiatif
     // array multidimensi
 
+    // functions array [http://php.net/manual/en/book.array.php]
+        // search in array
+            in_array // returning boolean
+            array_search // returning the key of value if true otherwise false 
+        
+        // sorting in array
+            sort
+            rsort
+            asort
+            arsort
+            ksort
+            krsort
+        array_keys
+        array_values
+        array_merge
+        count
+
+
 # Object Oriented Style
+    
+    // mysqli
     $mysqli = new mysqli(DB_ROOT, DB_USER, DB_PASS, DB_NAME, DB_PORT, DB_SOCKET);
 
     $mysqli->connect_errno
@@ -104,6 +124,14 @@
     menghapus direktori
     rename()
     mengubah nama direktori
+
+#FILE SYSTEM [http://uk1.php.net/manual/en/book.filesystem.php]
+    json_encode
+    json_decode
+    file_get_contents
+    file_put_contents
+    file_exists
+    is_writeable
 
 # [Output Control Functions](http://php.net/manual/en/ref.outcontrol.php)
     flush()
