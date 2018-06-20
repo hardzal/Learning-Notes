@@ -101,6 +101,12 @@
 #encode<=>decode
     base64_encode()
 
+# MAGIC METHOD
+    __construct
+    __call
+    __get
+    __toString
+
 # MAGIC CONSTANTS PHP
     __LINE__
     __FILE__
