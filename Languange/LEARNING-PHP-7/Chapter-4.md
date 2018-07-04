@@ -10,27 +10,38 @@ In this chapter, you will learn about the following:
     - Design patterns
     - Anonymous functions
 
------
+# Objects and Classes
+ ## Objects
+ ## Classes  
 
-# Objects
+# Visibility, static properties, and methods 
+ 
+ ## Visibility
+ - private: This type allows access only to members of the same class. If A and B are instances of the class C, A can access the properties and methods of B.
 
-# Class  
+ - protected: This type allows access to members of the same class and  instances from classes that inherit from that one only. You will see  inheritance in the next section.
 
-# Visibility : 
-- private: This type allows access only to members of the same class. If A and
-B are instances of the class C, A can access the properties and methods of B.
+ - public: This type refers to a property or method that is accessible from anywhere. Any classes or code in general from outside the class can access it.
 
-- protected: This type allows access to members of the same class and
-instances from classes that inherit from that one only. You will see
-inheritance in the next section.
-
-- public: This type refers to a property or method that is accessible from
-anywhere. Any classes or code in general from outside the class can access it.
+  ## static property
+  ## methods
 
 # Encapsulation 
-    getter and setter
-    static methods and properties
-    namespace :: to solve when you have two or more classes with the same name.
-    autoloading classes
 
-# Inheritance
+# Namespace
+
+# Autoloading classes
+
+# Inheritance, interfaces, and traits
+  ## Inheritance
+  ## Overriding Methods
+  ## Abstract classes
+  ## Interfaces
+  ## Polymorhism
+  ## Traits
+
+# Handling exceptions
+
+# Design Patterns
+
+# Anonymous Functions 

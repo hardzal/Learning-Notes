@@ -1,7 +1,5 @@
 #What this book covers
 
-This Learning Based on PackPub Ebook title "Learning PHP 7"
-
 Chapter 1, Setting Up the Environment, will guide you through the installation of the
 different software needed.
 
@@ -9,7 +7,7 @@ Chapter 2, Web Applications with PHP, will be an introduction to what web
 applications are and how they work internally.
 
 Chapter 3, Understanding PHP Basics, will go through the basic elements of the PHP
-languageï¿½from variables to control structures.
+language—from variables to control structures.
 
 Chapter 4, Creating Clean Code with OOP, will describe how to develop web
 applications following the object-oriented programming paradigm.
