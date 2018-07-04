@@ -1,4 +1,5 @@
 <?php
+namespace Bookstore\Utils;
 
 trait Unique {
     private static $lastId = 0;

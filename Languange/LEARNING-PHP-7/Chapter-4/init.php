@@ -5,6 +5,7 @@ use Bookstore\Domain\Customer\Basic;
 use Bookstore\Domain\Customer\Premium;
 use Bookstore\Domain\Payer;
 use Bookstore\Domain\Person;
+use Bookstore\Utils\Unique;
 
 function __autoload($className) {
     $lashSlash  = strpos($className, '\\') + 1;
@@ -70,3 +71,19 @@ var_dump($premium instanceof Premium);
 var_dump($basic instanceof Customer);
 var_dump($basic instanceof Person);
 var_dump($basic instanceof Payer);
+
+echo "<br>";
+
+$basic1 = new Basic(5, "Nande", "suka", "email@mail.com");
+$basic2 = new Basic(9, "kimi no", "namaewa", "email@Mail.com");
+var_dump($basic1->getId()); // 5
+var_dump($basic2->getId()); // 9
+$basic1 = new Basic(1, "Anata", "wa dare", "imaile@desu.com");
+var_dump($basic->getId());
+
+$basic3 = new Basic(1, 'name', 'surname', 'email');
+$premium1 = new Premium(2, 'name', 'surname', 'email');
+var_dump(Person::getLastId()); // 
+var_dump(Unique::getLastId()); // 
+var_dump(Basic::getLastId()); // 
+var_dump(Premium::getLastId()); //
