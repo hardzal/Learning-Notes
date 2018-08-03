@@ -43,5 +43,7 @@ In this chapter, you will learn about the following:
 # Handling exceptions
 
 # Design Patterns
+  ## Factory
+  ## Singleton
 
-# Anonymous Functions 
+# Anonymous Functions / Lambda Functions
