@@ -1,10 +1,10 @@
 # Learning Notes
 
 Ini adalah tempat saya mencatat sesuatu yang baru, jika tidak cukup akan saya tulis juga di blog saya 
-[http://mr-izal.blogspot.com]
-[http://medium.com/informatics]
-[http://hardzal.github.io]
-[http://science4rt.wordpress.com]
+- [http://mr-izal.blogspot.com]
+- [http://medium.com/informatics]
+- [http://hardzal.github.io]
+- [http://science4rt.wordpress.com]
 
 -----------------------------------------------
 
@@ -19,27 +19,27 @@ Ini adalah tempat saya mencatat sesuatu yang baru, jika tidak cukup akan saya tu
 - __Competitive Programming__ 
 - __Object Oriented Programming__ [MVC]
 
-# Intermediate
-    - HTML/CSS
-    - PHP 
-    - JavaScript
-    - C/C++
+## Intermediate
+   - HTML/CSS
+   - PHP 
+   - JavaScript
+   - C/C++
+   - MySQL
+   
+## Basic 
+   - Python
+   - Ruby
+   - Java
 
-# Basic 
-    - Python
-    - Ruby
-    - Java
-    - MySQL
-
-# Wish list
-    - Golang
-    - Functional Programming
-        - Haskell
-        - Scala
-        - Clojure
-    - Artificial Intelligence
-        - Machine Learning
-        - Deep Learning
+## Wish list
+   - Golang
+   - Functional Programming
+       - Haskell
+       - Scala
+       - Clojure
+   - Artificial Intelligence
+       - Machine Learning
+       - Deep Learning
 ------------------------------------------
 
 ### What Next ?
