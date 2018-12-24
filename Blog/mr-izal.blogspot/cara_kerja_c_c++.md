@@ -10,9 +10,6 @@ Selain kedua hal diatas kita akan mempelajari istilah - istilah yang berhubungan
     - Compiler
     - Linker
 
-
-
-
 ## Referensi
 
     -  http://www.cplusplus.com/doc/tutorial/preprocessor/ 

@@ -22,17 +22,17 @@ Ini adalah tempat saya mencatat sesuatu yang baru, jika tidak cukup akan saya tu
 ## Intermediate
    - HTML/CSS
    - PHP 
-   - JavaScript
-   - C/C++
    - MySQL
-   
+    
 ## Basic 
+   - C/C++
+   - Java   
+   - JavaScript
    - Python
    - Ruby
-   - Java
+   - Golang
 
 ## Wish list
-   - Golang
    - Functional Programming
        - Haskell
        - Scala
@@ -47,4 +47,4 @@ Ini adalah tempat saya mencatat sesuatu yang baru, jika tidak cukup akan saya tu
     Selanjutnya saya akan lebih sering mencatat sesuatu yang telah saya pelajari saya, doakan saja semoga tiap minggu bisa terealisasi!
  ```
 # Keep Learning Everyday 
-#Displin #Konsisten #PantangMenyerah #Fokus #MorePractice
+# Displin #Konsisten #PantangMenyerah #Fokus #MorePractice

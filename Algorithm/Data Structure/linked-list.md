@@ -1,3 +1,5 @@
+# Linked-list
+
 Linked list adalah struktur data yang terdiri dari simpul - simpul kelompok yang mewakili suatu urutan bersama.
 
 A Linked List is a data structure that consists of a group nodes which represent a sequence together.
