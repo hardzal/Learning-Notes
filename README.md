@@ -1,10 +1,11 @@
 # Learning Notes
 
-Ini adalah tempat saya mencatat sesuatu yang baru, jika tidak cukup akan saya tulis juga di blog saya 
+Ini adalah tempat saya mencatat sesuatu yang baru, selain itu saya juga berkontribusi disitus berikut 
 - [http://mr-izal.blogspot.com]
 - [http://medium.com/informatics]
 - [http://hardzal.github.io]
 - [http://science4rt.wordpress.com]
+- [https://codepen.io/hardzal]
 
 -----------------------------------------------
 
@@ -23,7 +24,7 @@ Ini adalah tempat saya mencatat sesuatu yang baru, jika tidak cukup akan saya tu
    - HTML/CSS
    - PHP 
    - MySQL
-    
+
 ## Basic 
    - C/C++
    - Java   
@@ -48,3 +49,8 @@ Ini adalah tempat saya mencatat sesuatu yang baru, jika tidak cukup akan saya tu
  ```
 # Keep Learning Everyday 
 # Displin #Konsisten #PantangMenyerah #Fokus #MorePractice
+
+
+
+ 
+
