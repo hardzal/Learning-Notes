@@ -9,7 +9,13 @@
 
 
 
+## PHP 
+
+- https://www.php-fig.org/psr/
+- https://phptherightway.com/#basic_concept
+
+
+
 ### Articles and Tutorials
 
 -  https://scotch.io/
-
