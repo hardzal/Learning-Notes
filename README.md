@@ -33,14 +33,14 @@ Ini adalah tempat saya mencatat sesuatu yang baru, selain itu saya juga berkontr
    - Ruby
    - Golang
 
-## Wish list
+## Next Learning
+   - Artificial Intelligence
+       - Machine Learning
+       - Deep Learning
    - Functional Programming
        - Haskell
        - Scala
        - Clojure
-   - Artificial Intelligence
-       - Machine Learning
-       - Deep Learning
 ------------------------------------------
 
 ### What Next ?
@@ -49,8 +49,4 @@ Ini adalah tempat saya mencatat sesuatu yang baru, selain itu saya juga berkontr
  ```
 # Keep Learning Everyday 
 # Displin #Konsisten #PantangMenyerah #Fokus #MorePractice
-
-
-
- 
 
