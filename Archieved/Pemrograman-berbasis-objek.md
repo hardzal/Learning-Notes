@@ -1,11 +1,12 @@
-- Object
 
-- Class
+### Object
 
-- Abstraction
+### Class
 
-- Encapsulation
+### Abstraction
 
-- Inheritance
+### Encapsulation
 
-- Polymorphism
+### Inheritance
+
+### Polymorphism
