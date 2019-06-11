@@ -41,6 +41,4 @@ Ini adalah tempat saya mencatat sesuatu yang baru, selain itu saya juga berkontr
  ```Markdown
     Selanjutnya saya akan lebih sering mencatat sesuatu yang telah saya pelajari saya, doakan saja semoga tiap minggu bisa terealisasi!
  ```
-# Keep Learning Everyday 
-# Displin #Konsisten #PantangMenyerah #Fokus #MorePractice
-
+##### Keep Learning Everyday 
