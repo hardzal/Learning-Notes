@@ -21,13 +21,14 @@ Ini adalah tempat saya mencatat sesuatu yang baru, selain itu saya juga berkontr
 
 ## Basic 
    - C/C++
-   - Java   
+   - Java
    - JavaScript
    - Python
    - Ruby
    - Golang
-
+  
 ## Next Learning
+   - Rust
    - Artificial Intelligence
        - Machine Learning
        - Deep Learning

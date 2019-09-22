@@ -1,4 +1,5 @@
 # Sertification Junior Programmer
+
 - [x] Accepted
 
 Berlangsung pada tanggal 22 May 2019

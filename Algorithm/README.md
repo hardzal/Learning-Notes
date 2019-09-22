@@ -1,5 +1,7 @@
-# Listing Algorithm 
+# Listing Algorithm
 
- ## Basics
- ## Intermediate
- ## Advanced
+## Basics
+
+## Intermediate
+
+## Advanced

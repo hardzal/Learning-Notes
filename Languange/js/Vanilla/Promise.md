@@ -8,7 +8,7 @@
 - Dalam contoh dibawah kita menggunakan dua callback resolve() jika berhasil sedangkan jika gagal maka reject()
 
 ``javascript
-let promise = new Promie(function(resolve, reject) {
+let promise = new Promise(function(resolve, reject) {
 	let isSuccess  = true; 
 	setTimeout(function() {
 		if(isSuccess) {
