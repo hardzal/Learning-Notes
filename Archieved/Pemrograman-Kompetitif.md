@@ -14,6 +14,6 @@
 
 ### Basic Structure Data
 
-### Graf
+### Gr
 
 ### Geometri
