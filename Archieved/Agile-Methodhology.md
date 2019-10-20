@@ -1,0 +1,4 @@
+# Agile Methodhology
+
+- Scrum
+- Kanban
