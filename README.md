@@ -9,37 +9,48 @@ Ini adalah tempat saya mencatat sesuatu yang baru, selain itu saya juga berkontr
 - [http://informatics.web.id]
 - [http://kagaku.web.id]
 -----------------------------------------------
-
- ## Apa yang sedang saya pelajari
-- __Competitive Programming__ 
-- __Object Oriented Programming__ [MVC]
-
-## Intermediate
+## Intermediate Skill
+### Programming Languange
    - HTML/CSS
    - PHP 
-   - MySQL
+     - CodeIgniter
 
-## Basic 
-   - C/C++
-   - Java
+### Relational Database
+   - MySQL / MariaDB
+
+## Basic Skill
+### Programming Languange
+   - PHP
+     - Laravel
    - JavaScript
+     - VueJs
+     - ReactJs
+   - Golang
+   - NodeJs
    - Python
    - Ruby
-   - Golang
-  
-## Next Learning
-   - Rust
+   - Java
+   - C/C++
+
+### NoSQL Database
+  - MongoDB
+
+### Tools
+  - Docker
+  - Nginx
+  - Apache
+  - Linux  
+---
+## Wish Learning
+   - ~~Rust~~
    - Artificial Intelligence
-       - Machine Learning
-       - Deep Learning
+       - ~~Machine Learning~~
+       - ~~Deep Learning~~
    - Functional Programming
-       - Haskell
-       - Scala
-       - Clojure
+       - ~~Haskell~~
+       - ~~Scala~~
+       - ~~Clojure~~
 ------------------------------------------
 
 ### What Next ?
- ```Markdown
-    Selanjutnya saya akan lebih sering mencatat sesuatu yang telah saya pelajari saya, doakan saja semoga tiap minggu bisa terealisasi!
- ```
 ##### Keep Learning Everyday 
