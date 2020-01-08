@@ -24,4 +24,16 @@
  - Memperbaiki Kekurangan Asik-PBJ
 
 ### Week 08 (09 - 13 Desember 2019)
-- 9 Desember 2019 - Mengerjakan API dishut 
+ - Mengerjakan API dishut 
+
+### Week 09 (16 - 20 Desember 2019)
+ - Memperbaharui API Asik-PBJ
+  
+### Week 10 (23 - 27 Desember 2019)
+ - Memperbaiki Kekurangan dishut
+
+### Week 11 (30 Desember 2019 - 3 Januari 2020)
+ - Memperbaiki Kekurangan dishut
+
+### Week 12 (6 - 10 Januari 2020 )
+ - Mengerjakan sidapur

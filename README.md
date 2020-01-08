@@ -29,7 +29,9 @@ Ini adalah tempat saya mencatat sesuatu yang baru, selain itu saya juga berkontr
    - NodeJs
    - Python
    - Ruby
+     - Ruby on Rails
    - Java
+     - Android
    - C/C++
 
 ### NoSQL Database
