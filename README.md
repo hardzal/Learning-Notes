@@ -11,22 +11,22 @@ Ini adalah tempat saya mencatat sesuatu yang baru, selain itu saya juga berkontr
 -----------------------------------------------
 ## Intermediate Skill
 ### Programming Languange
-   - HTML/CSS
+   - JavaScript
    - PHP 
-     - CodeIgniter
+      - CodeIgniter
+      - Laravel 
 
 ### Relational Database
    - MySQL / MariaDB
 
 ## Basic Skill
 ### Programming Languange
-   - PHP
-     - Laravel
    - JavaScript
      - VueJs
      - ReactJs
    - Golang
    - NodeJs
+     - Express
    - Python
    - Ruby
      - Ruby on Rails
