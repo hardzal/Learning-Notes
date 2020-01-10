@@ -12,6 +12,7 @@ Ini adalah tempat saya mencatat sesuatu yang baru, selain itu saya juga berkontr
 ## Intermediate Skill
 ### Programming Languange
    - JavaScript
+     - jQuery
    - PHP 
       - CodeIgniter
       - Laravel 
